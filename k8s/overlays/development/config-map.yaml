@@ -4,7 +4,7 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://evanshortiss.com/rht-summit-2023-lab-guide/summit-2023-gitops-workshop-guide/main/m5-ci-cd/_images/ex8.gh-new-branch.png"
     ]
 kind: ConfigMap
 metadata:
